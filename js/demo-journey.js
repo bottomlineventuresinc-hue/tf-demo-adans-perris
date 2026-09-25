@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Residential plumbing, water heaters, and sewer laterals across Perris and the Inland Empire. Robert checks the problem first and puts the price in writing.';
+            'Residential plumbing, water heaters, and sewer laterals in Perris. Robert checks the problem first and puts the price in writing.';
         }
       }
     },
